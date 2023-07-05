@@ -1,12 +1,12 @@
-- name: Push changes
-  uses: ad-m/github-push-action@master
+
+ 
+name: Scrape latest data
+
+uses: ad-m/github-push-action@master
   with:
     github_token: ${{ sas-repo.PAT }}
     branch: refs/pull/42/merge
     directory: .
-    
-name: Scrape latest data
-
 on:
   push:
   workflow_dispatch:
