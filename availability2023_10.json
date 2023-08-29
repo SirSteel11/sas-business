@@ -1,7 +1,11 @@
 [
   {
     "name": "United States",
-    "count": 6
+    "count": 3
+  },
+  {
+    "name": "Japan",
+    "count": 2
   },
   {
     "name": "Belgium",
