@@ -1,14 +1,18 @@
 [
   {
     "name": "United States",
-    "count": 3
+    "count": 5
   },
   {
-    "name": "China",
+    "name": "Japan",
     "count": 1
   },
   {
     "name": "Belgium",
+    "count": 0
+  },
+  {
+    "name": "China",
     "count": 0
   },
   {
@@ -53,10 +57,6 @@
   },
   {
     "name": "Italy",
-    "count": 0
-  },
-  {
-    "name": "Japan",
     "count": 0
   },
   {
